@@ -15,3 +15,7 @@ Puede ser algo que se reliza a distancia o se puede encontrar a cierta distancia
 
 STAGIGN AREA
 Un espacio especifico donde tu puedes recabar, alacenar y compartir informacion de algun proyecto.
+
+.GITIGNORE
+Funciona para tener el almacenamiento limpio, evita que subas datos sensibles y tambien mantiene reduce un poco el peso del repositorio.
+
