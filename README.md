@@ -1,5 +1,3 @@
-cambios 2
-
 README.md
 pues este repositorio lo utilizare para guardar y responder informacion, estoy aprendiendo a usar git bash con codigos simples aunque considero que tiene algunos bugs, voy en segundo semestre de uni
 otas/01-terminal.md
