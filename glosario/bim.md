@@ -19,3 +19,29 @@ Un espacio especifico donde tu puedes recabar, alacenar y compartir informacion 
 .GITIGNORE
 Funciona para tener el almacenamiento limpio, evita que subas datos sensibles y tambien mantiene reduce un poco el peso del repositorio.
 
+git init 
+Transforma un repositorio a a una carpeta oculta.
+
+git add
+Guarda cambios permanentes.
+
+git push
+Manda los commits de la rama mainal repositorio.
+
+git status
+Enseñas los archivos mpdificados y los q púedo commitear.
+
+git log
+Me enseña todos los commits.
+
+git restore 
+Elimina permanentemente un archivo del repo.
+
+git branch
+Muestra las ramas q tengo en la compu y crea nuevas ramas.
+
+ORIGIN
+El nombre del repositorio principal.
+
+PULL REQUEST
+Peticion que se necesita para poder hacer cambios en la rama principal.
