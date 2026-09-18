@@ -30,7 +30,7 @@ Muestra qué archivos modificaste y cuáles están listos para commitear.
 
 ### git log
 
-Muestra el hitorial de commits, del más reciente al más antiguo.
+Muestra el historial de commits, del más reciente al más antiguo.
 
 ### git restore
 
@@ -38,7 +38,7 @@ Deshace cambios y los regresa a una version anterior.
 
 ### git commit --amend
 
-Crea un commit nuevo encima del anterior, dejando los dos en la historia, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
+Crea un commit nuevo remplazando al anterior, dejando los dos en la historia, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
 
 ### git branch
 
@@ -56,7 +56,7 @@ Una línea de trabajo paralela. Te deja hacer cambios sin tocar `main` hasta que
 
 ### origin
 
-Es el nombre que GitHub le pone al repositorio principal de tu cuenta.
+El nombre predeterminado y abreviado que se le asigna al repositorio remoto de donde clonaste o copiaste un proyecto originalmente
 
 ### HEAD
 
