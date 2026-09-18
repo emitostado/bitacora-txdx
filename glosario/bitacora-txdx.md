@@ -1,0 +1,2 @@
+glosario/bim.md
+que bim significa bulding information modeling lo cual claramente es construccion de informacion modelada 3d, Entorno de Datos Común. Espacio digital único donde se almacena y comparte toda la información del proyecto entre los agentes implicado y las 7 dimensiones bim que son 3d(modelado) 4d(tiempo) 5d(costos) 6d(sostenibilidad) 7d(gestion de activos).
