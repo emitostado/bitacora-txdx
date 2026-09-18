@@ -10,11 +10,11 @@ Convierte una carpeta normal en un repositorio de Git. Crea la carpeta oculta `.
 
 ### git add
 
-Guarda los cambios de forma permanente en la historia del proyecto.
+Registra los cambios y agrega el archivo especifico.
 
 ### git commit
 
-Sube los cambios al repositorio de GitHub.
+Guarda los cambios del proyecto en local.
 
 ### git push
 
@@ -30,15 +30,15 @@ Muestra qué archivos modificaste y cuáles están listos para commitear.
 
 ### git log
 
-Muestra el hisotrial de commits, del más reciente al más antiguo.
+Muestra el hitorial de commits, del más reciente al más antiguo.
 
 ### git restore
 
-Elimina permanentemente un archivo del repositorio.
+Deshace cambios y los regresa a una version anterior.
 
 ### git commit --amend
 
-Crea un commit nuevo encima del anterior, dejando los dos en la historia.
+Crea un commit nuevo encima del anterior, dejando los dos en la historia, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
 
 ### git branch
 
@@ -56,7 +56,7 @@ Una línea de trabajo paralela. Te deja hacer cambios sin tocar `main` hasta que
 
 ### origin
 
-Es el nombre obligatorio que GitHub le pone al repositorio principal de tu cuenta.
+Es el nombre que GitHub le pone al repositorio principal de tu cuenta.
 
 ### HEAD
 
