@@ -40,6 +40,9 @@ Elimina permanentemente un archivo del repo.
 git branch
 Muestra las ramas q tengo en la compu y crea nuevas ramas.
 
+git reflog
+Te hace un listado de 90 dias de todo lo q hiciste o tenias en la compu.
+
 ORIGIN
 El nombre del repositorio principal.
 
