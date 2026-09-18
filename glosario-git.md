@@ -38,7 +38,7 @@ Deshace cambios y los regresa a una version anterior.
 
 ### git commit --amend
 
-Crea un commit nuevo remplazando al anterior, dejando los dos en la historia, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
+Crea un commit nuevo remplazando al anterior, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
 
 ### git branch
 
