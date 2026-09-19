@@ -22,7 +22,7 @@ Envía los commits de una rama local a un repositorio remoto.
 
 ### `git pull`
 
-Descarga los cambios del repositorio remoto y los integra en la rama local actual. Por defecto, combina las operaciones de git fe´tch y `git merge`.
+Descarga los cambios del repositorio remoto y los integra en la rama local actual. Por defecto, combina las operaciones de git fetch y `git merge`.
 
 ### `git status`
 
