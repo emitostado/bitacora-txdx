@@ -10,7 +10,7 @@ Convierte una carpeta normal en un repositorio de Git. Crea la carpeta oculta `.
 
 ### git add
 
-Registra los cambios y agrega el archivo especifico.
+Guarda los cambios de forma permanente en la historia del proyecto y prepara los cambios para el siguiente commit.
 
 ### git commit
 
@@ -34,11 +34,11 @@ Muestra el historial de commits, del más reciente al más antiguo.
 
 ### git restore
 
-Deshace cambios y los regresa a una version anterior.
+Deshacer cambios locales en tus archivos y restaurarlos a una versión anterior del ultimo commit y los cambios sin commitear se pierden.
 
 ### git commit --amend
 
-Crea un commit nuevo remplazando al anterior, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
+Crea un commit nuevo remplazando al principal, el commit viejo no desaparece pero no se visualiza en la rama pricipal.
 
 ### git branch
 
@@ -56,7 +56,7 @@ Una línea de trabajo paralela. Te deja hacer cambios sin tocar `main` hasta que
 
 ### origin
 
-El nombre predeterminado y abreviado que se le asigna al repositorio remoto de donde clonaste o copiaste un proyecto originalmente
+El nombre predeterminado y abreviado que se le asigna al repositorio remoto de donde clonaste o copiaste un proyecto originalmente.
 
 ### HEAD
 
