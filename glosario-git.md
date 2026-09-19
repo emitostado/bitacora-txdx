@@ -6,7 +6,7 @@ Definiciones rápidas de los comandos y conceptos que uso todos los días.
 
 ### `git init`
 
-Convierte una carpeta en un repositorio de Git. Crea la carpeta oculta git, donde Git almacena la información y el historial del repositorio.
+Convierte una carpeta en un repositorio de Git. Crea la carpeta oculta .git, donde Git almacena la información y el historial del repositorio.
 
 ### `git add`
 
@@ -22,7 +22,7 @@ Envía los commits de una rama local a un repositorio remoto.
 
 ### `git pull`
 
-Descarga los cambios del repositorio remoto y los integra en la rama local actual. Por defecto, combina las operaciones de git fech y git merge.
+Descarga los cambios del repositorio remoto y los integra en la rama local actual. Por defecto, combina las operaciones de git fe´tch y `git merge`.
 
 ### `git status`
 
